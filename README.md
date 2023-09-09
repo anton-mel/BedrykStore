@@ -7,6 +7,5 @@ Bedryk, my first online clothing store built in PHP in 2020, was developed using
 ![Screenshot 3](img_block/7.png)
 ![Screenshot 4](img_block/4.png)
 ![Screenshot 5](img_block/1.png)
-![Screenshot 6](img_block/5.png)
 ![Screenshot 7](img_block/8.png)
-![Screenshot 8](img_block/6.png)
+![Screenshot 6](img_block/5.png)
